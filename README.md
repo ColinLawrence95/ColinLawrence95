@@ -8,7 +8,7 @@ I'm a Full Stack Developer passionate about building dynamic, responsive, and sc
 - **Databases**: MongoDB, PostgreSQL
 
 ## 🌟 Featured Projects
-- 🔹 [Bestpresso](https://github.com/ColinLawrence95/Bestpresso): A full-featured E-Commerce platform for coffee.
+- 🔹 [Bestpresso](https://github.com/ColinLawrence95/bestspresso-front-end): A full-featured E-Commerce platform for coffee.
 - 🔹 [Hold or Fold](https://github.com/ColinLawrence95/Hold-or-Fold): A PvP crypto betting experience.
 - 🔹 [Resumania](https://github.com/ColinLawrence95/Resumania): A game about the job market.
 
