@@ -8,9 +8,9 @@ I'm a Full-Stack Developer and a graduate of the General Assembly Full-Stack Sof
 - **Databases**: MongoDB, PostgreSQL
 
 ## 🌟 Featured Projects
-- 🔹 [Bestpresso](https://github.com/ColinLawrence95/bestspresso-front-end): A full-featured E-Commerce platform for coffee.
-- 🔹 [Hold or Fold](https://github.com/ColinLawrence95/Hold-or-Fold): A PvP crypto betting experience.
-- 🔹 [Resumania](https://github.com/ColinLawrence95/Resumania): A game about the job market.
+- [Bestpresso](https://github.com/ColinLawrence95/bestspresso-front-end): A full-featured E-Commerce platform for coffee.
+- [Hold or Fold](https://github.com/ColinLawrence95/Hold-or-Fold): A PvP crypto betting experience.
+- [Resumania](https://github.com/ColinLawrence95/Resumania): A game about the job market.
 
 ## 🎯 About Me
 When I’m not coding, I’m either at the gym, diving into the latest video game, or tinkering with electronics.
