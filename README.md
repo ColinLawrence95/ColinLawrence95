@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Colin Lawrence
 
-<!--
-**ColinLawrence95/ColinLawrence95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer passionate about building dynamic, responsive, and scalable web applications. With experience in both front-end and back-end technologies, I enjoy turning ideas into code and creating impactful digital experiences.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Languages**: JavaScript, TypeScript, Python
+- **Frameworks & Libraries**: Flask, Express, Node.js, Django
+- **Databases**: MongoDB, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- 🔹 [Bestpresso](https://github.com/yourusername/Bestpresso): A full-featured E-Commerce platform for coffee
+- 🔹 [Hold or Fold](https://github.com/yourusername/Hold-or-Fold): A game about the job market
+
+## 🎯 About Me
+When I’m not coding, I’m either at the gym, diving into the latest video game, or tinkering with electronics.
+
+📫 Reach out or check out what I’m building next!
