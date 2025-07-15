@@ -8,6 +8,7 @@ I'm a Full-Stack Developer and a graduate of the General Assembly Full-Stack Sof
 - **Databases**: MongoDB, PostgreSQL
 
 ## 🌟 Featured Projects
+- [The Jim Kelly Team](https://thejimkellyteam.com): A realtor team site with live listings, reviews, an email.js contact form and Framer-Motion animations.
 - [Bestpresso](https://github.com/ColinLawrence95/bestspresso-front-end): A full-featured E-Commerce platform for coffee.
 - [Hold or Fold](https://github.com/ColinLawrence95/Hold-or-Fold): A PvP crypto betting experience.
 - [Resumania](https://github.com/ColinLawrence95/Resumania): A game about the job market.
