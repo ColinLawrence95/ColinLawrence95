@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Colin Lawrence
 
-I'm a Full-Stack Developer and a graduate of the General Assembly Full-Stack Software Engineering Bootcamp. I am passionate about building dynamic, responsive, and scalable web applications. With experience in both front-end and back-end technologies, I enjoy turning ideas into code and creating impactful digital experiences.
+I'm a Full-Stack Developer and a graduate General Assembly's Full-Stack Software Engineering Program. I am passionate about building dynamic, responsive, and scalable web applications. With experience in both front-end and back-end technologies, I enjoy turning ideas into code and creating impactful digital experiences.
 
 ## 🚀 Tech Stack
 - **Languages**: JavaScript, TypeScript, Python
