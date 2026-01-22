@@ -10,7 +10,7 @@ I'm a Full-Stack Developer and a graduate General Assembly's Full-Stack Software
 ## 🌟 Featured Projects
 - [The Jim Kelly Team](https://thejimkellyteam.com): A realtor team site with live listings, reviews, an email.js contact form and Framer-Motion animations.
 - [Bestpresso](https://github.com/ColinLawrence95/bestspresso-front-end): A full-featured E-Commerce platform for coffee.
-- [Spellcarved](https://github.com/ColinLawrence95/spellcarved): A 2D top down rouge-like build with C# and Unity
+- [Spellcarved](https://github.com/ColinLawrence95/spellcarved): A 2D top down rouge-like built with C# and Unity
 - [Hold or Fold](https://github.com/ColinLawrence95/Hold-or-Fold): A PvP crypto betting experience.
 - [Resumania](https://github.com/ColinLawrence95/Resumania): A game about the job market.
 
