@@ -4,7 +4,7 @@ I'm a Full-Stack Developer and a graduate General Assembly's Full-Stack Software
 
 ## 🚀 Tech Stack
 - **Languages**: JavaScript, TypeScript, Python
-- **Frameworks & Libraries**: Flask, Express, Node.js, Django
+- **Frameworks & Libraries**: Flask, Express, Node.js, Django, React
 - **Databases**: MongoDB, PostgreSQL
 
 ## 🌟 Featured Projects
